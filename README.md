@@ -9,9 +9,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rakitha" alt="rakitha" /></a> </p>
 
-- 🔭 I’m currently working on **E-commerce project**
+- 🔭 I’m currently working at MobiOs PVT
 
-- 🌱 I’m currently learning **Angula,React**
+- 🌱 I’m currently learning **C#,Docker,AWS**
 
 - 💬 Ask me about **Java,Html,Css,Java script**
 
